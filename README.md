@@ -116,7 +116,7 @@ We zullen ook voorbeelden tonen van foutieve classificaties om beperkingen te be
 git clone https://github.com/<jullie-gebruikersnaam>/banknote-verifier.git
 
 # 2. Installeer vereiste pakketten
-pip install -r requirements.txt
+pip install -r requirements.md
 
 # 3. Start de applicatie
 python main.py
